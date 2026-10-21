@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Touch Tracker</string>
+    <string name="status_overlay_ok">Разрешение overlay: есть ✓\nСервис стартует при включении экрана\nи останавливается при выключении.\nКнопка «Старт» — запуск на 10 секунд.</string>
+    <string name="status_overlay_missing">Разрешение overlay: НЕТ ✗\nНажмите кнопку ниже</string>
+    <string name="log_empty">Лог пока пуст</string>
+    <string name="btn_permission">Дать разрешение «Поверх других приложений»</string>
+    <string name="btn_start">Старт (10 сек)</string>
+    <string name="btn_stop">Стоп</string>
+    <string name="btn_share_log">Поделиться логом</string>
+    <string name="toast_service_started">Сервис запущен на %1$d сек</string>
+    <string name="toast_service_started_indefinite">Сервис запущен</string>
+    <string name="toast_service_stopped">Сервис остановлен</string>
+    <string name="toast_permission_needed">Сначала дайте разрешение «Поверх других приложений»</string>
+    <string name="toast_permission_already">Разрешение уже есть</string>
+    <string name="toast_log_empty">Лог ещё не создан</string>
+    <string name="toast_notification_denied">Без уведомлений сервис может работать нестабильно на Android 13+</string>
+    <string name="share_log_title">Поделиться логом</string>
+    <string name="notification_channel_name">Touch Tracker</string>
+    <string name="notification_channel_desc">Сервис записи касаний</string>
+    <string name="notification_title">Touch Tracker</string>
+    <string name="notification_text">Запись касаний активна</string>
+</resources>
